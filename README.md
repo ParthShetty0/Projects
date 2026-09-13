@@ -13,7 +13,7 @@ Instead of creating a new repository for every tiny tutorial or half-finished id
 *   **Failed Experiments:** Code that might not work perfectly, but taught me a valuable lesson.
 *   **Algorithm Practice:** Solutions to basic logic puzzles and coding challenges.
 
-*Note: Because this is a learning space, expect to see messy code, lots of comments, and a few bugs!*
+*Note: Because this is a learning space, expect to see messy code, lots of comments, and a few bugs!, ignore them please.*
 
 ## 🎯 What I'm Currently Learning
 
